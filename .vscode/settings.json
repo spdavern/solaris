@@ -1,11 +1,11 @@
 {
     "python.testing.pytestArgs": [
-        "."
+        "tests"
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.pytestEnabled": true,
-    "python.pythonPath": "/raid/dave646/anaconda3/envs/solaris_gpu/bin/python",
+    "python.pythonPath": "/Users/dave646/opt/anaconda3/envs/solaris/bin/python",
     "python.linting.flake8Enabled": true,
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": true

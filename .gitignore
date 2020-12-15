@@ -128,3 +128,4 @@ model_weights
 
 # VSCode settings
 .vscode
+~.vscode/settings
