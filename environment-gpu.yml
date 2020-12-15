@@ -31,4 +31,3 @@ dependencies:
   - urllib3>=1.25.7
   - tensorflow-gpu=1.13.1
   - cuda100
-  - pip
