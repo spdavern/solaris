@@ -1,7 +1,7 @@
 FROM nvidia/cuda:9.2-devel-ubuntu16.04
 LABEL maintainer="nweir <nweir@iqt.org>"
 
-ARG solaris_branch='master'
+ARG solaris_branch='ISS418_Docker_build'
 
 
 # prep apt-get and cudnn

@@ -3,7 +3,7 @@ LABEL maintainer="nweir <nweir@iqt.org>"
 
 ENV CUDNN_VERSION 7.3.0.29
 LABEL com.nvidia.cudnn.version="${CUDNN_VERSION}"
-ARG solaris_branch='master'
+ARG solaris_branch='ISS418_Docker_build'
 
 
 # prep apt-get and cudnn
