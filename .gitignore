@@ -125,3 +125,6 @@ dmypy.json
 sandbox.ipynb
 solaris/nets/weights
 model_weights
+
+# VSCode settings
+.vscode
